@@ -1,4 +1,4 @@
-uid,country,gender,spent,purchases,date,group,device
+uid,country,gender,spent,purchase,date,group,device
 11115722,MEX,F,1595,5,2016-03-08,GRP B,I
 11122053,USA,M,498,2,2017-07-14,GRP B,I
 11128688,USA,F,2394,6,2017-09-17,GRP A,I
