@@ -22,21 +22,12 @@ The dataset is provided in CSV format and contains 10,000 rows in `user_demograp
 
 The project structure is organized as follows:
 
-meditation-app/
-│
 ├── data/
 │ ├── user_demographics_v1.csv
 │ └── purchase_data_v1.csv
 │
 ├── README.md
-│
-├── analysis/
-│ └── analysis.ipynb
-│
-└── visualizations/
-├── viz_1.png
-└── viz_2.png
-
+├── analysis.ipynb
 
 
 ## Running the Project
